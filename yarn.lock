@@ -2074,9 +2074,9 @@ timem@~1.1.0:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/timem/-/timem-1.1.2.tgz#fe93006c28253a8da5c49299306991fa4cc4f40c"
 
-tinymce@4.2.3:
-  version "4.2.3"
-  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-4.2.3.tgz#8d742fdc17026fac53e779a1a63ec2756e38965d"
+tinymce@5.6.0:
+  version "5.6.0"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.6.0.tgz#b5eda4888e1a607ddd545619cfaa137d59de14b4"
 
 to-array@0.1.4:
   version "0.1.4"
